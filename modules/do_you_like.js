@@ -13,7 +13,7 @@ var progress;
 var backgroundColor = "hsl(272,50%,50%)";
 var setupDone = false;
 var model;
-var loader = new Loader("../image_library/images/");
+var loader = new Loader("image_library/images/");
 
 var things, thingsHD;
 
